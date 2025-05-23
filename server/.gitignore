@@ -1,0 +1,26 @@
+# Node (React/Vite)
+node_modules/
+dist/
+build/
+.env
+.env.local
+
+# Django
+__pycache__/
+*.py[cod]
+db.sqlite3
+*.sqlite3
+*.log
+*.pot
+*.pyc
+media/
+staticfiles/
+.env
+venv/
+env/
+.idea/
+.vscode/
+
+# OS generated
+.DS_Store
+Thumbs.db
